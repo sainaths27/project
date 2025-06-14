@@ -1,3 +1,2 @@
-This project is baase on the ejs .
-
-In which we can see the  posts of users , we can update it and delete it and also  add new posts 
+•	Bases on java concepts (classes  , interfaces).  
+•	This is CUI base project in which , person can withdraw amount , deposit amount  
